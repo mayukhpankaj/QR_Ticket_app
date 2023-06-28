@@ -4,7 +4,7 @@
 
 Original Post -  https://www.linkedin.com/pulse/how-we-handled-4000-footfalls-annual-cultural-fest-bit-mayukh-pankaj/ 
 
-The stage was set, and exhilaration was in the air for BITOTSAV ’23 , The annual cultural fest of BIT Mesra. A break from monotonous schedule, The campus was going to buzz with celebrities like Papon performing, 200+ sponsors, 50+ colleges participating and 70+ events organized by various clubs & societies of BIT. It was a highly anticipated event and we were expecting four thousand footfalls.
+ BITOTSAV ’23 is the annual cultural fest of BIT Mesra with celebrities like Papon performing, 200+ sponsors, 50+ colleges participating and 70+ events organized by various clubs & societies of BIT. It was a highly anticipated event of North East India and we were expecting four thousand footfalls.
 
 Until now we relied on printed passes for entries to concerts, events. Printing them was expensive & handing out to each attendee is tedious.
 
