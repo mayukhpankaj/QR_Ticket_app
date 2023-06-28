@@ -1,0 +1,56 @@
+.mobile-stepper{
+    display: none;
+}
+
+.super-car{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.schedule{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.schedule h1{
+    font-size: 50px;
+}
+
+.table{
+    height: auto;
+    width: 800px;
+    filter: drop-shadow(16px 16px 20px #2E3138);
+}
+#schedule{
+    height: auto;
+    background-image: url("http://localhost:3000/assets/background/undraw_term_sheet_re_ju7s.svg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.head{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.bod{
+    font-size: 20px;
+}
+@media screen and (max-width: 800px) {
+    .mobile-stepper{
+        display: block;
+    }
+    .web-stepper{
+        display: none;
+    }
+    .table{
+        height: 400px;
+    }
+    .schedule{
+        justify-content: center;
+        text-align: center;
+    }
+}
